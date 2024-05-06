@@ -20,4 +20,5 @@ In this Cloud Computing project, I hosted a static web application on Amazon Web
 14. Configured Simple Notification Service (SNS) to alert about activities within the Auto Scaling Group.
 15. Registered the domain name and set up a DNS record using Route 53.
 
-##
+## Reference Architecture
+![arch](/architecture.png)
